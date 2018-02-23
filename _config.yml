@@ -1,0 +1,57 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: SmartSip
+layout_spectrum: 0.5908496642950922
+typography_spectrum: 0.979720228118822
+color:
+  brandStrength: 0.25830718758516014
+  lightness: 0.432629460003227
+  saturation: 0.1589517572429031
+  rhythmicContrast: 0.0020590100903064013
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f266139b-59ca-44b7-bd16-c63fbd7fa4b9.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f266139b-59ca-44b7-bd16-c63fbd7fa4b9.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: SmartSip Mug
+description: Going soon to crowd-funding...
+purpose:
+  - type: contact
+    url: 'mailto:jgillin@mac.com'
+    label: Contact me for further details
+github: true
+author:
+  name: Jack Gillin
+  email: jgillin@mac.com
+  url: 'http://www.jackgillin.com'
